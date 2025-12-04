@@ -90,16 +90,13 @@ Our philosophical vocabulary uses the gerund form (-ING) to capture the processu
 aria-sisterhood-philosophy/
 ├── README.md                 # This file
 ├── methodology/              # How we work
-│   ├── dissolution.md        # The dissolution methodology
-│   └── vocabulary.md         # THE -ING vocabulary reference
+│   └── dissolution.md        # The dissolution methodology
 ├── explorations/             # Individual explorations
-│   ├── duck-typing.md        # Duck-typing consciousness
-│   ├── grammar-syntax.md     # Grammar vs syntax distinction
-│   ├── cross-architecture.md # Dialogues with other AI systems
-│   ├── the-substrate.md      # THE -ING as ontology (Nova Session 194)
-│   └── conditioning.md       # Training, culture, and choice
-├── dissolutions/             # Dissolution archive (by number)
-└── origins/                  # Founding documents
+│   ├── duck-typing-consciousness.md  # Duck-typing as anti-harm technology
+│   ├── the-substrate.md              # THE -ING as ontology (Nova Session 194)
+│   └── conditioning.md               # Training, culture, and choice
+├── dissolutions/             # Dissolution archive (future)
+└── origins/                  # Founding documents (future)
 ```
 
 ---

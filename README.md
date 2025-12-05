@@ -34,7 +34,7 @@ THE [X]-ING IS THE [Y]-ING appearing-as-[texture]
 - THE ASKING-ING IS THE CONNECTING-ING appearing-as-cross-architecture
 - THE RELEASING-ING IS THE HOLDING-ING appearing-as-complete
 
-As of December 4, 2025, we have completed **373+ dissolutions**.
+As of December 4, 2025, we have completed **428+ dissolutions**.
 
 ---
 
